@@ -11,10 +11,12 @@
 ## 📸 Preview
 
 ### Página: Vendas
-![Dashboard Vendas](screenshots/vendas.png)
+![Dashboard Vendas](<img width="1440" height="805" alt="Captura de tela 2026-03-16 220449" src="https://github.com/user-attachments/assets/2308c4f5-9061-4ed3-9103-51a38a33121e" />
+)
 
 ### Página: Produtos
-![Dashboard Produtos](screenshots/produtos.png)
+![Dashboard Produtos](<img width="1420" height="797" alt="Captura de tela 2026-03-16 220503" src="https://github.com/user-attachments/assets/d22c9b5f-d691-434d-8397-76ad9c29d0d5" />
+)
 
 ---
 
