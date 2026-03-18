@@ -11,12 +11,12 @@
 ## 📸 Preview
 
 ### Página: Vendas
-(<img width="1440" height="805" alt="Captura de tela 2026-03-16 220449" src="https://github.com/user-attachments/assets/2308c4f5-9061-4ed3-9103-51a38a33121e" />
-)
+<img width="1440" height="805" alt="Captura de tela 2026-03-16 220449" src="https://github.com/user-attachments/assets/2308c4f5-9061-4ed3-9103-51a38a33121e" />
+
 
 ### Página: Produtos
-(<img width="1420" height="797" alt="Captura de tela 2026-03-16 220503" src="https://github.com/user-attachments/assets/d22c9b5f-d691-434d-8397-76ad9c29d0d5" />
-)
+<img width="1420" height="797" alt="Captura de tela 2026-03-16 220503" src="https://github.com/user-attachments/assets/d22c9b5f-d691-434d-8397-76ad9c29d0d5" />
+
 
 ---
 
@@ -73,5 +73,5 @@ Simular um cenário real de varejo premium com dados de múltiplas regiões, cat
 
 Feito como case de portfólio em Power BI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-rodrigues5955)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Silvairv)
